@@ -1,0 +1,23 @@
+$color:blue;
+
+#v2 {
+    border: 1px solid $color;
+}
+
+.mui-icon-extra-notice {
+    font-size: 40px;
+}
+$color1:yellow;
+#res{
+    border:2px solid $color1;
+}
+#bg{
+    width: 300px;
+    height: 100px;
+    background-image: url(../imgs/logo.png);
+}
+#bg1{
+    width: 300px;
+    height: 300px;
+    background-image: url(../imgs/bg.png);
+}
